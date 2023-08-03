@@ -6,7 +6,7 @@
         public bool TypeStrings(string S, String T)
         {
 
-            char[] SArray = S.ToCharArray();
+             char[] SArray = S.ToCharArray();
 
             char[] TArray = T.ToCharArray();
 
